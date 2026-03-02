@@ -28,7 +28,7 @@ You need Python 3.8+ installed on your system.
 ### 1. Clone the repository
 
 ```bash
-git clone [https://github.com/Poornima030/Neural-Network-Digit-Classifier.git](https://github.com/Poornima030/Neural-Network-Digit-Classifier.git)
+git clone https://github.com/Poornima030/Neural-Network-Digit-Classifier
 cd Neural-Network-Digit-Classifier
 ````
 
